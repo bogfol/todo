@@ -1,2 +1,2 @@
 # todo
-Web-based todo application using primarily flask (python
+Web-based todo application using primarily flask (python)
